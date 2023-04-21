@@ -103,7 +103,6 @@ Below is the CKS curriculum broken down by its six sections. Each section has it
 * [Pod Security Policy](https://blog.alcide.io/pod-security-policy/)
 * [Notes ](This is my personal notes!!!)
 
-
 </details>
 
 
