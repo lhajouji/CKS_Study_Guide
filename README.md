@@ -99,7 +99,12 @@ Below is the CKS curriculum broken down by its six sections. Each section has it
 * [Pod Security Policies](https://kubernetes.io/docs/concepts/policy/pod-security-policy/)
 * [Configure a Security Context for a Pod or Container](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
 * [Pod Security Policy](https://blog.alcide.io/pod-security-policy)
+* <details><summary> Notes </summary>
+  
+  this my personal 
+  notes !!!   
 
+</details>
 </details>
 
 <details><summary>Manage Kubernetes secrets</summary>
