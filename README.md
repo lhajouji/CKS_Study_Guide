@@ -95,19 +95,22 @@ Below is the CKS curriculum broken down by its six sections. Each section has it
 
 ### Minimize Microservice Vulnerabilities - 20%
 
-<details><summary>Setup appropriate OS level security domains e.g. using PSP, OPA, security contexts</summary>
+<details>
+<summary>Setup appropriate OS level security domains e.g. using PSP, OPA, security contexts</summary>
 
 * [Pod Security Policies](https://kubernetes.io/docs/concepts/policy/pod-security-policy/)
 * [Configure a Security Context for a Pod or Container](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
 * [Pod Security Policy](https://blog.alcide.io/pod-security-policy/)
 
-  <details><summary>Notes</summary>
+<details>
+<summary>Notes</summary>
 
-  This is my personal notes!!!
-
-  </details>
+This is my personal notes!!!
 
 </details>
+
+</details>
+
 
 
 <details><summary>Manage Kubernetes secrets</summary>
